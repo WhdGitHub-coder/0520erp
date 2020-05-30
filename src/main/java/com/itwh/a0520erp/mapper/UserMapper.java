@@ -12,7 +12,6 @@ import java.io.Serializable;
  * </p>
  *
  * @author 翁煌
- * @since 2020-05-12
  */
 public interface UserMapper extends BaseMapper<User> {
     /**

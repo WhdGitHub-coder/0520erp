@@ -4,6 +4,11 @@ package com.itwh.a0520erp.controller;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
+ */
 @Controller
 @RequestMapping("sys")
 public class SystemController {

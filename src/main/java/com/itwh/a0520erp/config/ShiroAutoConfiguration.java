@@ -23,9 +23,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- *
- * @author Wh
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Configuration
 @ConditionalOnWebApplication(type = Type.SERVLET)

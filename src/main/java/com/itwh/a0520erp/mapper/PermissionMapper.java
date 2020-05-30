@@ -12,7 +12,6 @@ import java.io.Serializable;
  * </p>
  *
  * @author 翁煌
- * @since 2020-05-14
  */
 public interface PermissionMapper extends BaseMapper<Permission> {
     void deleteRolePermissionByPid(@Param("id")Serializable id);

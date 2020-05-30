@@ -5,9 +5,9 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * json数据实体
- * @author Wh
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Data
 @AllArgsConstructor

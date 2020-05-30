@@ -3,7 +3,11 @@ package com.itwh.a0520erp.common;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

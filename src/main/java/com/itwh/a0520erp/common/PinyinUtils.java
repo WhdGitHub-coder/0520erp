@@ -8,10 +8,9 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinVCharType;
 import net.sourceforge.pinyin4j.format.exception.BadHanyuPinyinOutputFormatCombination;
 
 /**
- * 拼音工具类
- * 
- * @author LJH
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 public class PinyinUtils {
 

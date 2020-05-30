@@ -10,12 +10,9 @@ import lombok.experimental.Accessors;
 import java.io.Serializable;
 
 /**
- * <p>
- * 
- * </p>
- *
- * @author 翁煌
- * @since 2020-05-23
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

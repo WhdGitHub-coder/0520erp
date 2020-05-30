@@ -22,12 +22,9 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * <p>
- *  前端控制器
- * </p>
- *
- * @author 翁煌
- * @since 2020-05-14
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @RestController
 @RequestMapping("/permission")

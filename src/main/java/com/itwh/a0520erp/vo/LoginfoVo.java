@@ -8,7 +8,9 @@ import org.springframework.format.annotation.DateTimeFormat;
 import java.util.Date;
 
 /**
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Data
 @EqualsAndHashCode(callSuper = false) //不使用父类的方法

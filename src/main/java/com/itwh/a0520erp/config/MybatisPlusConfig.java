@@ -7,9 +7,9 @@ import org.springframework.context.annotation.Configuration;
 import com.baomidou.mybatisplus.extension.plugins.PaginationInterceptor;
 
 /**
- * mybatisplus的配置类
- * @author Wh
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Configuration
 @ConditionalOnClass(value= {PaginationInterceptor.class})

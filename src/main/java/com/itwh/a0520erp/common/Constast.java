@@ -1,9 +1,10 @@
 package com.itwh.a0520erp.common;
 
-/*
-状态常量
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
-
 public class Constast {
     //定义常量状态码
     public static final Integer OK=200;

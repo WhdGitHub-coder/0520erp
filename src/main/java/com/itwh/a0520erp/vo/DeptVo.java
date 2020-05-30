@@ -5,7 +5,9 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Data
 @EqualsAndHashCode(callSuper = false) //不使用父类的方法

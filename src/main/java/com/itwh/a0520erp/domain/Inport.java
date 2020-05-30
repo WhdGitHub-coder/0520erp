@@ -12,12 +12,9 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * <p>
- * 
- * </p>
- *
- * @author 翁煌
- * @since 2020-05-25
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @Data
 @EqualsAndHashCode(callSuper = false)

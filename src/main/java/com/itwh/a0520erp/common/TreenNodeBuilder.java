@@ -2,7 +2,11 @@ package com.itwh.a0520erp.common;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
+ */
 public class TreenNodeBuilder {
     /**
      * 把没有层级关系的集合变成有层级关系的

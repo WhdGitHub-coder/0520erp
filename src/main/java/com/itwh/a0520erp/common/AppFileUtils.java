@@ -13,9 +13,9 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * 文件上传下载工具类
- * @author 翁煌
- *
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 public class AppFileUtils {
 

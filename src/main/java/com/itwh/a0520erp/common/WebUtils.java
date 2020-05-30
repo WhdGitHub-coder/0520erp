@@ -5,7 +5,11 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;
-
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
+ */
 public class WebUtils {
 
     /*

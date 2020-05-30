@@ -24,7 +24,11 @@ import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
-
+/**
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
+ */
 public class UserRealm extends AuthorizingRealm {
 
     @Autowired

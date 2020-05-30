@@ -18,12 +18,9 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.*;
 
 /**
- * <p>
- *  前端控制器
- * </p>
- *
- * @author 翁煌
- * @since 2020-05-14
+ * @Author 翁煌
+ * @Description:
+ * @Version 1.0
  */
 @RestController
 @RequestMapping("menu")

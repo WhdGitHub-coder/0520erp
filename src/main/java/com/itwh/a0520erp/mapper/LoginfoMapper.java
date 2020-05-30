@@ -9,7 +9,6 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * </p>
  *
  * @author 翁煌
- * @since 2020-05-15
  */
 public interface LoginfoMapper extends BaseMapper<Loginfo> {
 
