@@ -44,7 +44,7 @@ public class SystemController {
      * 跳转到日志管理
      */
     //在数据表sys_permission里的登录日志的href
-    @RequestMapping("toLoginfoManager")
+    @RequestMapping("toLogLoginManager")
     public String toLoginfoManager() {
         return "system/loginfo/loginfoManager";
     }
